@@ -1,0 +1,6 @@
+{
+  "name": "Urban Heat Island (UHI) Mitigation Planner",
+  "description": "AI-powered microclimate studio simulating urban airflow, thermal hotspots, and passive nature-based cooling interventions to eliminate urban heat islands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
